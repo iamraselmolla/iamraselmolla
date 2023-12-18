@@ -1,18 +1,17 @@
 ### 👋,  Hey! Nice to see you.
 #### Full Stack Developer / MERN Stack Developer / React Developer / Node.js Developer / Web Developer / WordPress Expert / Fiverr seller
-![Full Stack Developer / MERN Stack Developer / React Developer / Node.js Developer / Web Developer / WordPress Expert / Fiverr seller]
 
 
 Skills: HTML / CSS / TAILWIND / BOOTSTRAP /  JS / REACT / FIREBASE / NODEJS / EXPRESSJS / MONGODB / SQL / WORDPRESS
 
-- 🔭 I’m currently working on Various Project 
-- 🌱 I’m currently learning React Native, NestJs 
-- 👯 I’m looking to collaborate on Full Stack Development project 
-- 🤔 I’m looking for help with developing skill and sharing this skills to the real world 
-- 💬 Ask me about Full Stack Developemnt,  
-- 📫 How to reach me: Facebook, Linkedin, Fiverr, Gmail, Whatsapp 
-- 😄 Pronouns: He, Molla, Alamin 
-- ⚡ Fun fact: ok 
+🔭 I’m currently working on Various Project 
+🌱 I’m currently learning React Native, NestJs 
+👯 I’m looking to collaborate on Full Stack Development project 
+🤔 I’m looking for help with developing skill and sharing this skills to the real world 
+💬 Ask me about Full Stack Developemnt,  
+📫 How to reach me: Facebook, Linkedin, Fiverr, Gmail, Whatsapp 
+😄 Pronouns: He, Molla, Alamin 
+⚡ Fun fact: ok 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iamraselmolla)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iamraselmolla/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/iamraselmolla)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iamraselmolla)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://iamraselmolla.netlify.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.fiverr.com/raselmolla6336?up_rollout=true)  
