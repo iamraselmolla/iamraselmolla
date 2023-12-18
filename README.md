@@ -2,7 +2,7 @@
 #### Full Stack Developer / MERN Stack Developer / React Developer / Node.js Developer / Web Developer / WordPress Expert / Fiverr seller
 
 
-Skills: HTML / CSS / TAILWIND / BOOTSTRAP /  JS / REACT / FIREBASE / NODEJS / EXPRESSJS / MONGODB / SQL / WORDPRESS
+Skills: HTML / CSS / TAILWIND / BOOTSTRAP /  JS / REACT / FIREBASE / NODEJS / EXPRESSJS / MONGODB / SQL / WORDPRESS / ELEMENTOR / WPBAKERY / WOOCOMMERECE
 
 🔭 I’m currently working on Various Project 
 🌱 I’m currently learning React Native, NestJs 
