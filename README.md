@@ -1,6 +1,6 @@
 ### 👋,  Hey! Nice to see you.
 #### Full Stack Developer / MERN Stack Developer / React Developer / Node.js Developer / Web Developer / WordPress Expert / Fiverr seller
-![Full Stack Developer / MERN Stack Developer / React Developer / Node.js Developer / Web Developer / WordPress Expert / Fiverr seller](https://media.licdn.com/dms/image/D5603AQFXhr8rBCwldw/profile-displayphoto-shrink_800_800/0/1694612612226?e=1708560000&v=beta&t=9NQOwEvECLWjVdTp25n8QoKVEBO5A_W6PMxqL41GF1g)
+![Full Stack Developer / MERN Stack Developer / React Developer / Node.js Developer / Web Developer / WordPress Expert / Fiverr seller]
 
 
 Skills: HTML / CSS / TAILWIND / BOOTSTRAP /  JS / REACT / FIREBASE / NODEJS / EXPRESSJS / MONGODB / SQL / WORDPRESS
