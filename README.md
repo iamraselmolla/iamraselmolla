@@ -1,4 +1,4 @@
-# Hello there! 👋 I'm Molla Alamin.
+# Hello there! 👋 I'm Md. Rasel Molla.
 
 I am a passionate Full Stack Developer and WordPress Expert with a dedicated focus on the MERN (MongoDB, Express.js, React, Node.js) stack. My journey in the software industry has been an exciting exploration of creating innovative solutions and building robust web applications.
 
