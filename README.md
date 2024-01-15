@@ -5,19 +5,19 @@ I'm Molla Alamin, a Full Stack Developer and WordPress Expert with a focus on ME
 ## Skills
 
 ### Programming Languages
-!(https://skillicons.dev/icons?i=html,css,js,php&theme=dark)
+![](https://skillicons.dev/icons?i=html,css,js,php&theme=dark)
 
 ### Frontend Frameworks
-!(https://skillicons.dev/icons?i=bootstrap,tailwind,react&theme=dark)
+![](https://skillicons.dev/icons?i=bootstrap,tailwind,react&theme=dark)
 
 ### Backend Technologies
-!(https://skillicons.dev/icons?i=nodejs,express&theme=dark)
+![](https://skillicons.dev/icons?i=nodejs,express&theme=dark)
 
 ### Databases
-!(https://skillicons.dev/icons?i=mongodb,mysql&theme=dark)
+![](https://skillicons.dev/icons?i=mongodb,mysql&theme=dark)
 
 ### CMS (WordPress)
-!(https://skillicons.dev/icons?i=wordpress&theme=dark)
+![](https://skillicons.dev/icons?i=wordpress&theme=dark)
 
 ### Tools and Editors
 ![VSCode](https://skillicons.dev/icons?i=vscode,git&theme=dark)
