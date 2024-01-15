@@ -5,23 +5,23 @@ I'm Molla Alamin, a Full Stack Developer and WordPress Expert with a focus on ME
 ## Skills
 
 ### Programming Languages
-[![HTML](https://skillicons.dev/api?i=html,css,js,pho&theme=dark)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html,css,js,pho&theme=dark)](https://skillicons.dev)
 
 ### Frontend Frameworks
-[![Bootstrap](https://skillicons.dev/api?i=bootstrap,tailwind,react&theme=dark)](https://skillicons.dev)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap,tailwind,react&theme=dark)](https://skillicons.dev)
 
 ### Backend Technologies
-[![Node.js](https://skillicons.dev/api?i=nodejs,express&theme=dark)](https://skillicons.dev) 
+[![Node.js](https://skillicons.dev/icons?i=nodejs,express&theme=dark)](https://skillicons.dev) 
 
 ### Databases
-[![MongoDB](https://skillicons.dev/api?i=mongodb,mysql&theme=dark)](https://skillicons.dev) 
+[![MongoDB](https://skillicons.dev/icons?i=mongodb,mysql&theme=dark)](https://skillicons.dev) 
 
 ### WordPress
-[![WordPress](https://skillicons.dev/api?i=wordpress&theme=dark)](https://skillicons.dev) 
-[![Elementor](https://skillicons.dev/api?i=elementor&theme=dark)](https://skillicons.dev) 
+[![WordPress](https://skillicons.dev/icons?i=wordpress&theme=dark)](https://skillicons.dev) 
+[![Elementor](https://skillicons.dev/icons?i=elementor&theme=dark)](https://skillicons.dev) 
 
 ### Tools and Editors
-[![VSCode](https://skillicons.dev/api?i=vscode,git&theme=dark)](https://skillicons.dev)
+[![VSCode](https://skillicons.dev/icons?i=vscode,git&theme=dark)](https://skillicons.dev)
 
 ## Current Activities
 - 🔭 I’m currently working on Various Projects
