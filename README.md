@@ -3,7 +3,25 @@
 I'm Molla Alamin, a Full Stack Developer and WordPress Expert with a focus on MERN Stack. I offer my skills on Fiverr and I'm actively engaged in various projects.
 
 ## Skills
-HTML | CSS | <img src="https://img.icons8.com/color/48/000000/html-5.png"/> | <img src="https://img.icons8.com/color/48/000000/css3.png"/> | JS | React | <img src="https://img.icons8.com/color/48/000000/firebase.png"/> | Node.js | <img src="https://img.icons8.com/color/48/000000/express.png"/> | <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> | SQL | WordPress | <img src="https://img.icons8.com/color/48/000000/elementor.png"/> | <img src="https://img.icons8.com/ios-filled/50/000000/visual-composer.png"/> | <img src="https://img.icons8.com/windows/32/000000/woocommerce.png"/>
+
+### Programming Languages
+[![HTML](https://skillicons.dev/api?i=html,css,js,pho&theme=dark)](https://skillicons.dev)
+
+### Frontend Frameworks
+[![Bootstrap](https://skillicons.dev/api?i=bootstrap,tailwind,react&theme=dark)](https://skillicons.dev)
+
+### Backend Technologies
+[![Node.js](https://skillicons.dev/api?i=nodejs,express&theme=dark)](https://skillicons.dev) 
+
+### Databases
+[![MongoDB](https://skillicons.dev/api?i=mongodb,mysql&theme=dark)](https://skillicons.dev) 
+
+### WordPress
+[![WordPress](https://skillicons.dev/api?i=wordpress&theme=dark)](https://skillicons.dev) 
+[![Elementor](https://skillicons.dev/api?i=elementor&theme=dark)](https://skillicons.dev) 
+
+### Tools and Editors
+[![VSCode](https://skillicons.dev/api?i=vscode,git&theme=dark)](https://skillicons.dev)
 
 ## Current Activities
 - 🔭 I’m currently working on Various Projects
