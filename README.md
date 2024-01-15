@@ -24,5 +24,4 @@ Skills: HTML / CSS / TAILWIND / BOOTSTRAP /  JS / REACT / FIREBASE / NODEJS / EX
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamraselmolla&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/iamraselmolla/contributions?format=svg&private=true)  
 
