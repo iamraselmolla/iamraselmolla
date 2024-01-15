@@ -2,7 +2,7 @@
 
 I'm Molla Alamin, a Full Stack Developer and WordPress Expert with a focus on MERN Stack. I offer my skills on Fiverr and I'm actively engaged in various projects.
 
-## Skills
+# Skills
 
 ### Programming Languages
 ![](https://skillicons.dev/icons?i=html,css,js,php&theme=dark)
