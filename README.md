@@ -49,12 +49,9 @@ Looking forward to connecting and building amazing things in the digital realm!
 - 🤔 I’m looking for help with developing skills and sharing these skills with the real world
 - 💬 Ask me about Full Stack Development
 
-## How to Reach Me
-- [Facebook](https://www.facebook.com/iamraselmolla)
-- [LinkedIn](https://www.linkedin.com/in/iamraselmolla/)
-- [Fiverr](https://www.fiverr.com/raselmolla6336?up_rollout=true)
-- WhatsApp: [+8801944835365](https://wa.me/8801944835365)
-- Telegram: [iamraselmolla](https://t.me/iamraselmolla)
+## Connect with Me
+[<img src='https://img.icons8.com/color/48/000000/github--v1.png' alt='github'>](https://github.com/iamraselmolla)  [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/iamraselmolla/)  [<img src='https://img.icons8.com/color/48/000000/facebook.png' alt='facebook'>](https://www.facebook.com/iamraselmolla)  [<img src='https://img.icons8.com/color/48/000000/fiverr.png' alt='fiverr'>](https://www.fiverr.com/raselmolla6336?up_rollout=true)  
+WhatsApp: [+8801944835365](https://wa.me/8801944835365)  Telegram: [iamraselmolla](https://t.me/iamraselmolla)
 
 ## Pronouns
 He, Molla, Alamin
@@ -67,6 +64,4 @@ He, Molla, Alamin
 
 ## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=iamraselmolla)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Connect with Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iamraselmolla)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iamraselmolla/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/iamraselmolla)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.fiverr.com/raselmolla6336?up_rollout=true)  
+  
