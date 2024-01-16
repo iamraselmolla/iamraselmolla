@@ -43,18 +43,14 @@ Looking forward to connecting and building amazing things in the digital realm!
 ![VSCode](https://skillicons.dev/icons?i=vscode,git&theme=dark)
 
 ## Current Activities
-- 🔭 I’m currently working on Various Projects
-- 🌱 I’m currently learning React Native and NestJs
-- 👯 I’m looking to collaborate on Full Stack Development projects
-- 🤔 I’m looking for help with developing skills and sharing these skills with the real world
-- 💬 Ask me about Full Stack Development
+- 🔭  working on Various Projects
+- 🌱  learning React Native and NestJs
+- 👯  looking to collaborate on Full Stack Development projects
+- 🤔  looking for help with developing skills and sharing these skills with the real world
 
 ## Connect with Me
 [<img src='https://img.icons8.com/color/48/000000/github--v1.png' alt='github'>](https://github.com/iamraselmolla)  [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/iamraselmolla/)  [<img src='https://img.icons8.com/color/48/000000/facebook.png' alt='facebook'>](https://www.facebook.com/iamraselmolla)  [<img src='https://img.icons8.com/color/48/000000/fiverr.png' alt='fiverr'>](https://www.fiverr.com/raselmolla6336?up_rollout=true)  
 WhatsApp: [+8801944835365](https://wa.me/8801944835365)  Telegram: [iamraselmolla](https://t.me/iamraselmolla)
-
-## Pronouns
-He, Molla, Alamin
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamraselmolla&show_icons=true&count_private=true)
