@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/iamraselmolla?style=social)](https://github.com/iamraselmolla)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/iamraselmolla/)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1dbf73)](https://www.fiverr.com/raselmolla6336?up_rollout=true)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1dbf73)](https://www.fiverr.com/raselmolla6336)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/raselmolla6336/)
 
 ## About Me 🚀
@@ -107,7 +107,7 @@ const rasel = {
   
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/iamraselmolla)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamraselmolla/)
-  [![Fiverr](https://img.shields.io/badge/fiverr-%231DBF73.svg?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/raselmolla6336?up_rollout=true)
+  [![Fiverr](https://img.shields.io/badge/fiverr-%231DBF73.svg?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/raselmolla6336)
   [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/raselmolla6336/)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801944835365)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iamraselmolla)
