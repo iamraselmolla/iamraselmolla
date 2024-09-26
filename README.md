@@ -1,63 +1,92 @@
-# Hello there! 👋 I'm Md. Rasel Molla.
+# Md. Rasel Molla 👨‍💻
 
-I am a passionate Full Stack Developer and WordPress Expert with a dedicated focus on the MERN (MongoDB, Express.js, React, Node.js) stack. My journey in the software industry has been an exciting exploration of creating innovative solutions and building robust web applications.
+[![GitHub followers](https://img.shields.io/github/followers/iamraselmolla?style=social)](https://github.com/iamraselmolla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/iamraselmolla/)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1dbf73)](https://www.fiverr.com/raselmolla6336?up_rollout=true)
 
-## What I Do
-As a Full Stack Developer, I bring a comprehensive skill set to the table, enabling me to work on both the frontend and backend of web applications. My expertise extends to crafting dynamic and user-friendly interfaces using technologies like React, Bootstrap, and Tailwind CSS. On the backend, I am well-versed in utilizing Node.js and Express.js to create scalable and efficient server-side applications.
+## About Me 🚀
 
-## WordPress Mastery
-In addition to my Full Stack capabilities, I am a seasoned WordPress Expert. I excel in designing and developing WordPress websites, leveraging tools such as Elementor and WPBakery for seamless and visually appealing content creation. Whether it's e-commerce solutions using WooCommerce or custom themes, I am adept at transforming ideas into functional and aesthetically pleasing WordPress sites.
+I'm a passionate Full Stack Developer and WordPress Expert, specializing in the MERN stack. With a keen eye for design and a love for clean code, I create innovative web solutions that make a difference.
 
-## Industry Engagement
-I actively contribute to the software industry by offering my skills and services on Fiverr. Through this platform, I collaborate with clients to bring their ideas to life, providing tailored solutions that meet their specific needs. My commitment to delivering high-quality work and exceeding client expectations has been the cornerstone of my journey.
+```javascript
+const rasel = {
+  code: ["JavaScript", "HTML", "CSS", "PHP"],
+  tools: ["React", "Node.js", "Express", "MongoDB", "WordPress"],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  challenge: "Currently learning React Native and NestJS to expand my skillset!"
+}
+```
 
-## Continuous Learning
-The dynamic nature of the software industry inspires me to continuously enhance my skills. Every day, I embark on a journey of learning, exploring new technologies, and staying abreast of industry trends. This commitment to professional growth ensures that I remain at the forefront of the ever-evolving landscape of software development.
+## 🛠️ Tech Stack
 
-## Let's Collaborate!
-I am currently involved in various projects, and I am always open to exciting opportunities for collaboration. If you are looking for a dedicated Full Stack Developer or a WordPress Expert to bring your ideas to life, let's connect and explore the possibilities.
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-Feel free to reach out to me on [Fiverr](https://www.fiverr.com/raselmolla6336?up_rollout=true), [Facebook](https://www.facebook.com/iamraselmolla), or [LinkedIn](https://www.linkedin.com/in/iamraselmolla/). Let's create something remarkable together!
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-Looking forward to connecting and building amazing things in the digital realm!
+### Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+### CMS
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-# Skills
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-### Programming Languages
-![](https://skillicons.dev/icons?i=html,css,js,php&theme=dark)
+## 📊 GitHub Stats
 
-### Frontend Frameworks
-![](https://skillicons.dev/icons?i=bootstrap,tailwind,react&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamraselmolla&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamraselmolla&layout=compact&theme=radical" alt="Top Languages" height="165">
+</div>
 
-### Backend Technologies
-![](https://skillicons.dev/icons?i=nodejs,express&theme=dark)
+## 🏆 GitHub Trophies
 
-### Databases
-![](https://skillicons.dev/icons?i=mongodb,mysql&theme=dark)
-
-### CMS (WordPress)
-![](https://skillicons.dev/icons?i=wordpress&theme=dark)
-
-### Tools and Editors
-![VSCode](https://skillicons.dev/icons?i=vscode,git&theme=dark)
-
-## Current Activities
-- 🔭  working on Various Projects
-- 🌱  learning React Native and NestJs
-- 👯  looking to collaborate on Full Stack Development projects
-- 🤔  looking for help with developing skills and sharing these skills with the real world
-
-## Connect with Me
-[<img src='https://img.icons8.com/color/48/000000/github--v1.png' alt='github'>](https://github.com/iamraselmolla)  [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/iamraselmolla/)  [<img src='https://img.icons8.com/color/48/000000/facebook.png' alt='facebook'>](https://www.facebook.com/iamraselmolla)  [<img src='https://img.icons8.com/color/48/000000/fiverr.png' alt='fiverr'>](https://www.fiverr.com/raselmolla6336?up_rollout=true)  
-WhatsApp: [+8801944835365](https://wa.me/8801944835365)  Telegram: [iamraselmolla](https://t.me/iamraselmolla)
-
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamraselmolla&show_icons=true&count_private=true)
-
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamraselmolla)](https://github.com/anuraghazra/github-readme-stats)
-
-## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=iamraselmolla)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
   
+  [![trophy](https://github-profile-trophy.vercel.app/?username=iamraselmolla&theme=onedark&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
+
+## 🌟 What I Do
+
+- 💻 Develop full-stack web applications using the MERN stack
+- 🎨 Design and develop responsive WordPress websites
+- 🛠️ Create custom WordPress themes and plugins
+- 🚀 Optimize website performance and user experience
+- 📊 Implement e-commerce solutions with WooCommerce
+
+## 🔭 Current Focus
+
+- Working on various client projects
+- Learning React Native for mobile app development
+- Exploring NestJS for scalable server-side applications
+- Seeking collaborations on innovative Full Stack projects
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/iamraselmolla)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamraselmolla/)
+  [![Fiverr](https://img.shields.io/badge/fiverr-%231DBF73.svg?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/raselmolla6336?up_rollout=true)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801944835365)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iamraselmolla)
+  
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ From [iamraselmolla](https://github.com/iamraselmolla)</i>
+</div>
