@@ -1,9 +1,9 @@
 # Md. Rasel Molla 👨‍💻
 
-[![GitHub followers](https://img.shields.io/github/followers/iamraselmolla?style=social)]([[[https://github.com/iamraselmolla](https://github.com/iamraselmolla?tab=followers)](https://github.com/iamraselmolla?tab=followers)])
+[![GitHub followers](https://img.shields.io/github/followers/iamraselmolla?style=social)](https://github.com/iamraselmolla?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/iamraselmolla/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1dbf73)](https://www.fiverr.com/raselmolla6336)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/raselmolla6336/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/raselmolla633
 
 ## About Me 🚀
 
