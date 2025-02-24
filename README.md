@@ -20,11 +20,11 @@ const rasel = {
     backEnd: {
       js: ["Node.js", "Express"],
     },
-    databases: ["MongoDB", "MySQL", "PostgreSQL"],
+    databases: ["MongoDB", "MySQL", "PostgreSQL", "SQLlite],
     orm: ["Prisma"],
     api: ["REST", "GraphQL"],
     cms: ["WordPress"],
-    devOps: ["Docker", "AWS", "CI/CD"],
+    devOps: ["Docker", "AWS", "CI/CD", "Vercel"],
     mobile: ["React Native"]
   },
   architecture: ["Microservices", "Single Page Applications", "Progressive Web Apps"],
