@@ -24,7 +24,7 @@ const rasel = {
     orm: ["Prisma"],
     api: ["REST", "GraphQL"],
     cms: ["WordPress"],
-    devOps: ["Docker", "AWS", "CI/CD", "Vercel"],
+    devOps: ["Docker", "AWS", "CI/CD", "Redis", "Vercel"],
     mobile: ["React Native"]
   },
   architecture: ["Microservices", "Single Page Applications", "Progressive Web Apps"],
